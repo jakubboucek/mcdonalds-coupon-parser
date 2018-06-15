@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strictFunctionTypes": true,
+        "strictNullChecks": true,
+        "alwaysStrict": true,
+        "strictPropertyInitialization": true,
+        "lib": [
+            "es2018",
+            "dom"
+        ]
+    }
+}

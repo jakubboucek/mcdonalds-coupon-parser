@@ -1,0 +1,3322 @@
+{
+  "isMobileRenderer": false,
+  "surveoDatasetLoaderID": "{16387428-0FF2-1C15-3924-0000B43ADD76}",
+  "surveoResourceFolderID": "{ 86C5AA2E-6FF5-4830-B69A-DC7BD62911C1}",
+  "surveoLayout": "PDA/Cell (320x480)",
+  "surveoAnimation": "HSlide",
+  "surveoOrientation": "Landscape",
+  "surveoShowProgress": "Yes",
+  "surveoShowRestart": "No",
+  "surveoProjectID": "1338",
+  "surveyInProgress": 1,
+  "surveyResults": {
+    "9316": 1
+  },
+  "resultObj": {},
+  "defaultFontFamily": "Arial, Helvetica Neue, Helvetica, sans-serif",
+  "headerTextColor": "#000;",
+  "bodyTextColor": "#848080;",
+  "progressValuePosition": "Stationary",
+  "functionClearAll": [],
+  "surveoSkipPatterns": "<definitions><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9316\"><value name=\"parameter\"><![CDATA[1]]><![CDATA[2]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9277\"/><action type=\"hide\" objID=\"9278\"/><action type=\"hide\" objID=\"9279\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9316\"><value name=\"parameter\"><![CDATA[1]]><![CDATA[2]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9354\"/><action type=\"hide\" objID=\"9353\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0055]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0064]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0068]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0072]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0074]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0083]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0102]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0103]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0104]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0106]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0107]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0108]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0110]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0111]]></value></condition></group></conditions><actions><action type=\"do not change\" objID=\"9282\"/><action type=\"hideanswer\" objID=\"9282\"><parameter name=\"answers\"><![CDATA[1]]><![CDATA[2]]><![CDATA[3]]><![CDATA[5]]><![CDATA[6]]></parameter></action></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0048]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0060]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0062]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0067]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0071]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0073]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0088]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0095]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0100]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0109]]></value></condition></group></conditions><actions><action type=\"do not change\" objID=\"9282\"/><action type=\"hideanswer\" objID=\"9282\"><parameter name=\"answers\"><![CDATA[1]]><![CDATA[6]]></parameter></action></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0058]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0076]]></value></condition><condition name=\"operand\" type=\"or\"/><condition name=\"condition\" type=\"commentcontains\" objType=\"question\" objID=\"9358\"><value name=\"parameter\"><![CDATA[0042]]></value></condition></group></conditions><actions><action type=\"do not change\" objID=\"9282\"/><action type=\"hideanswer\" objID=\"9282\"><parameter name=\"answers\"><![CDATA[1]]></parameter></action></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9342\"><value name=\"parameter\"><![CDATA[1]]><![CDATA[2]]><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9354\"/><action type=\"hide\" objID=\"9353\"/><action type=\"hide\" objID=\"9303\"/><action type=\"hide\" objID=\"9304\"/><action type=\"hide\" objID=\"9305\"/><action type=\"hide\" objID=\"9306\"/><action type=\"hide\" objID=\"9307\"/><action type=\"hide\" objID=\"9308\"/><action type=\"hide\" objID=\"9309\"/><action type=\"hide\" objID=\"9310\"/><action type=\"hide\" objID=\"9311\"/><action type=\"hide\" objID=\"9355\"/><action type=\"hide\" objID=\"9356\"/><action type=\"hide\" objID=\"9357\"/><action type=\"hide\" objID=\"9413\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9342\"><value name=\"parameter\"><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9300\"/><action type=\"show\" objID=\"9301\"/><action type=\"show\" objID=\"9302\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9342\"><value name=\"parameter\"><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9300\"/><action type=\"hide\" objID=\"9301\"/><action type=\"hide\" objID=\"9302\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9341\"><value name=\"parameter\"><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9282\"/><action type=\"show\" objID=\"9283\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9341\"><value name=\"parameter\"><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9282\"/><action type=\"hide\" objID=\"9283\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9282\"><value name=\"parameter\"><![CDATA[7]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9283\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9282\"><value name=\"parameter\"><![CDATA[7]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9283\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9343\"><value name=\"parameter\"><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9285\"/><action type=\"hide\" objID=\"9286\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9343\"><value name=\"parameter\"><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9285\"/><action type=\"show\" objID=\"9286\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9285\"><value name=\"parameter\"><![CDATA[6]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9286\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9285\"><value name=\"parameter\"><![CDATA[6]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9286\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9287\"><value name=\"parameter\"><![CDATA[2]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9288\"/><action type=\"show\" objID=\"9289\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9287\"><value name=\"parameter\"><![CDATA[2]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9288\"/><action type=\"hide\" objID=\"9289\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9288\"><value name=\"parameter\"><![CDATA[6]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9289\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9288\"><value name=\"parameter\"><![CDATA[6]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9289\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9344\"><value name=\"parameter\"><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9313\"/><action type=\"show\" objID=\"9314\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9344\"><value name=\"parameter\"><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9313\"/><action type=\"hide\" objID=\"9314\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9313\"><value name=\"parameter\"><![CDATA[3]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9314\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9313\"><value name=\"parameter\"><![CDATA[3]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9314\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9345\"><value name=\"parameter\"><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9291\"/><action type=\"show\" objID=\"9292\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9345\"><value name=\"parameter\"><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9291\"/><action type=\"hide\" objID=\"9292\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9291\"><value name=\"parameter\"><![CDATA[8]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9292\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9291\"><value name=\"parameter\"><![CDATA[8]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9292\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9293\"><value name=\"parameter\"><![CDATA[10]]><![CDATA[11]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9296\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9293\"><value name=\"parameter\"><![CDATA[1]]><![CDATA[2]]><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]><![CDATA[6]]><![CDATA[7]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9294\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9293\"><value name=\"parameter\"><![CDATA[8]]><![CDATA[9]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9295\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9293\"><value name=\"parameter\"><![CDATA[1]]><![CDATA[2]]><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]><![CDATA[6]]><![CDATA[7]]><![CDATA[8]]><![CDATA[9]]><![CDATA[10]]><![CDATA[11]]></value></condition></group></conditions><actions><action type=\"do not change\" objID=\"9293\"/><action type=\"advanced\" objID=\"9293\"><parameter name=\"expression\"><![CDATA[if (ODP.Surveo.params.surveyResults[9316] == 1) { \n\n/// CS \n\ndocument.getElementById(\"coupontext_middle\").innerHTML = \" <div style='background-color:#eff0f1;width:90%;padding:20px;color:#000000;'><span style='font-size:18px;'> Děkujeme Vám za Váš názor. <br>Těšíme se na to, že Vás v naší restauraci opět brzy uvidíme.</div><br><br>Právě jste dokončili dotazník. Pokud si přejete kupon, klikněte na odkaz níže.<br><br><form action='https://survey.fast-insight.com/mcd/cz/coupon.php' method='post' target='_top'><input type='hidden' name='lang' value='cs'><input type='hidden' name='store_id' value='\"+ODP.Surveo.params.surveyResults[9358]+\"'><input type='hidden' name='IP' value='\"+ODP.Surveo.params.surveyResults[9303]+\"'><input type='hidden' name='browserLANG' value='\"+ODP.Surveo.params.surveyResults[9304]+\"'><input type='hidden' name='deviceType' value='\"+ODP.Surveo.params.surveyResults[9305]+\"'><input type='hidden' name='browser' value='\"+ODP.Surveo.params.surveyResults[9306]+\"'><input type='hidden' name='version' value='\"+ODP.Surveo.params.surveyResults[9307]+\"'><input type='hidden' name='platform' value='\"+ODP.Surveo.params.surveyResults[9308]+\"'><input type='hidden' name='surveyform' value='1338'><input type='hidden' name='identifier' value='\"+ODP.Surveo.params.surveyResults[9309]+\"'><input type='hidden' name='promo' value='\"+ODP.Surveo.params.surveyResults[9356]+\"'><input type='hidden' name='posid' value='\"+ODP.Surveo.params.surveyResults[9357]+\"'><input type='hidden' name='couponcode' value='\"+ODP.Surveo.params.surveyResults[9413]+\"'><input type='submit' value='OBDRŽET KUPON' style='padding:5px;background-color:#f4cc64;color:#000000;font-size:15px;font-weight:bold;'></form><iframe src='https://survey.fast-insight.com/mcd/cz/mcd_cz_sc.php' frameborder='0' height='0' width='0'></iframe>\"; \n} \n\nelse { \n\n/// if (ODP.Surveo.params.surveyResults[9316] == 2) { \n\n/// EN \n\ndocument.getElementById(\"coupontext_middle\").innerHTML = \" <div style='background-color:#eff0f1;width:90%;padding:20px;color:#000000;'><span style='font-size:18px;'> Thank you for participating in the Survey.<br><br> Looking forward to seeing you in our restaurants. </div><br><br>You have just finished the Survey. If you would like to get a voucher, please click on the link below.<br><br><form action='https://survey.fast-insight.com/mcd/cz/coupon.php' method='post' target='_top'><input type='hidden' name='lang' value='en'><input type='hidden' name='store_id' value='\"+ODP.Surveo.params.surveyResults[9358]+\"'><input type='hidden' name='IP' value='\"+ODP.Surveo.params.surveyResults[9303]+\"'><input type='hidden' name='browserLANG' value='\"+ODP.Surveo.params.surveyResults[9304]+\"'><input type='hidden' name='deviceType' value='\"+ODP.Surveo.params.surveyResults[9305]+\"'><input type='hidden' name='browser' value='\"+ODP.Surveo.params.surveyResults[9306]+\"'><input type='hidden' name='version' value='\"+ODP.Surveo.params.surveyResults[9307]+\"'><input type='hidden' name='platform' value='\"+ODP.Surveo.params.surveyResults[9308]+\"'><input type='hidden' name='surveyform' value='1338'><input type='hidden' name='identifier' value='\"+ODP.Surveo.params.surveyResults[9309]+\"'><input type='hidden' name='promo' value='\"+ODP.Surveo.params.surveyResults[9356]+\"'><input type='hidden' name='posid' value='\"+ODP.Surveo.params.surveyResults[9357]+\"'><input type='hidden' name='couponcode' value='\"+ODP.Surveo.params.surveyResults[9413]+\"'><input type='submit' value='GET VOUCHER' style='padding:5px;background-color:#f4cc64;color:#000000;font-size:15px;font-weight:bold;'></form><iframe src='https://survey.fast-insight.com/mcd/cz/mcd_cz_sc.php' frameborder='0' height='0' width='0'></iframe>\"; \n\n}\n]]></parameter></action></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9293\"><value name=\"parameter\"><![CDATA[1]]><![CDATA[2]]><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]><![CDATA[6]]><![CDATA[7]]><![CDATA[8]]><![CDATA[9]]><![CDATA[10]]><![CDATA[11]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9354\"/><action type=\"show\" objID=\"9353\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9293\"><value name=\"parameter\"><![CDATA[8]]><![CDATA[9]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9295\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9293\"><value name=\"parameter\"><![CDATA[1]]><![CDATA[2]]><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]><![CDATA[6]]><![CDATA[7]]><![CDATA[8]]><![CDATA[9]]><![CDATA[10]]><![CDATA[11]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9278\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9293\"><value name=\"parameter\"><![CDATA[1]]><![CDATA[2]]><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]><![CDATA[6]]><![CDATA[7]]><![CDATA[8]]><![CDATA[9]]><![CDATA[10]]><![CDATA[11]]></value></condition></group></conditions><actions><action type=\"do not change\" objID=\"9293\"/><action type=\"advanced\" objID=\"9293\"><parameter name=\"expression\"><![CDATA[ if (ODP && ODP.Surveo) { referrer = document.referrer; variables = referrer.substr(50);var qs = (function(a) { if (a == \"\") return {}; var b = {}; for (var i = 0; i < a.length; ++i) { var p=a[i].split('=', 2); if (p.length == 1) b[p[0]] = \"\"; else b[p[0]] = decodeURIComponent(p[1].replace(/\\+/g, \" \")); } return b; })(variables.split('&')); \n\nvar time = new Date();\nvar endtime = ((\"0\" + time.getHours()).slice(-2)   + \":\" + (\"0\" + time.getMinutes()).slice(-2) + \":\" + (\"0\" + time.getSeconds()).slice(-2));\n\nif (qs[\"starttime\"]) {\n\nvar time = qs[\"starttime\"];\n} else {\n\nvar time = \"12:00:00\";\n\n}\nvar hour = time.substr(0, 2);\nvar minute = time.substr(3, 2);\nvar second = time.substr(6, 2);\n\nvar currentdate = new Date();\n\n\n\nvar date1 = new Date(currentdate.getFullYear(), currentdate.getMonth(), currentdate.getDate(), hour, minute, second); \nvar date2 = new Date(currentdate.getFullYear(), currentdate.getMonth(), currentdate.getDate(), currentdate.getHours(), currentdate.getMinutes(), currentdate.getSeconds()); \n\n\nvar diff = date2 - date1;\n\nvar msec = diff+10000;\nvar hh = Math.floor(msec / 1000 / 60 / 60);\nmsec -= hh * 1000 * 60 * 60;\nvar mm = Math.floor(msec / 1000 / 60);\nmsec -= mm * 1000 * 60;\nvar ss = Math.floor(msec / 1000);\nmsec -= ss * 1000;\n\nif (ss < 10) ss = \"0\"+ss;\nif (mm < 10) mm = \"0\"+mm;\n\nvar completetime = mm+\":\"+ss;\n\nsm_setcomment(\"9303\", qs[\"IP\"]); \nsm_setcomment(\"9304\", qs[\"browserLANG\"]); \nsm_setcomment(\"9305\", qs[\"deviceType\"]); \nsm_setcomment(\"9306\", qs[\"browser\"]); \nsm_setcomment(\"9307\", qs[\"version\"]); \nsm_setcomment(\"9308\", qs[\"platform\"]);\nsm_setcomment(\"9309\", qs[\"identifier\"]);\nsm_setcomment(\"9310\", qs[\"starttime\"]);\nsm_setcomment(\"9311\", endtime);\nsm_setcomment(\"9355\", completetime);\n\n\n\n }]]></parameter></action></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9293\"><value name=\"parameter\"><![CDATA[1]]><![CDATA[2]]><![CDATA[3]]><![CDATA[4]]><![CDATA[5]]><![CDATA[6]]><![CDATA[7]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9294\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9293\"><value name=\"parameter\"><![CDATA[10]]><![CDATA[11]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9296\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisnotin\" objType=\"question\" objID=\"9300\"><value name=\"parameter\"><![CDATA[1]]></value></condition></group></conditions><actions><action type=\"hide\" objID=\"9301\"/><action type=\"hide\" objID=\"9302\"/></actions></definition><definition><conditions><group name=\"Group 1\"><condition name=\"condition\" type=\"answerisin\" objType=\"question\" objID=\"9300\"><value name=\"parameter\"><![CDATA[1]]></value></condition></group></conditions><actions><action type=\"show\" objID=\"9301\"/><action type=\"show\" objID=\"9302\"/></actions></definition></definitions>",
+  "surveoLayoutParams": {
+    "padding": "2%;",
+    "navigationButtonsPctg": "",
+    "progressLength": "91%;",
+    "restartRight": "0%;",
+    "restartInnerRight": "26%;",
+    "progressTextLineHeight": "150%;"
+  },
+  "contentPadding": "Yes",
+  "assignedQueueIndices": {
+    "{16387428-DCE2-1C23-A359-0305B15427BD}": 6,
+    "{16387428-E192-1C1F-E3EC-E296F5F81469}": 6,
+    "{16387428-E5B2-1C15-ABD8-2A0CBE9B9051}": 6,
+    "{16387428-E812-1C11-C560-513A83B17A6D}": 6,
+    "{16387428-EA42-1CDD-7F30-82CC95314D43}": 6,
+    "{16387429-2632-1C77-F014-592351D123C2}": 6,
+    "{16387429-28D2-1C1A-9349-725B89D781FF}": 6,
+    "{16387429-2B72-1C20-8686-357A56F81687}": 6,
+    "{16387429-2ED2-1C22-BF46-23585C18AC37}": 6,
+    "{16387429-31E2-1C1F-991C-FD4309F075AF}": 6,
+    "{16387429-3562-1C16-A9CD-13AFB1541BAA}": 6,
+    "{16387429-3892-1C56-3F63-358C21D41565}": 6,
+    "{16387429-3BE2-1C11-A811-18DB93CC4BC3}": 6,
+    "{16387429-3F12-1C1F-155B-B09BDBDB1BD7}": 6,
+    "{16387429-4242-1C99-12E5-D6BB9D105531}": 6,
+    "{16387429-4582-1C5C-CECC-D246609CA8CC}": 6,
+    "{16387429-48F2-1C1C-7CE2-4CF969914332}": 6,
+    "{16387429-4CE2-1C86-7974-9EECCD301AD6}": 6,
+    "{16387429-50E2-1C1D-FFE0-9805AADB74C5}": 6,
+    "{16387429-54B2-1C20-FE95-EB24EF401534}": 6,
+    "{16387429-5942-1C22-ACBE-3FEBA9722222}": 6,
+    "{16387429-5CA2-1C2F-9046-42BF6078FA06}": 6,
+    "{16387429-6122-1C8F-4457-9393BFA81463}": 6,
+    "{16387429-6742-1C60-661D-16A167989AFB}": 6,
+    "{16387429-7352-1C64-8090-F2E606B07A6B}": 6,
+    "{16387429-7AB2-1C1F-DFDA-FB0B92AE1D8A}": 6,
+    "{16387429-8042-1C12-9528-F04A78095C54}": 6,
+    "{16387429-8462-1C17-AAE7-75AD4F422235}": 6,
+    "{16387429-8892-1C54-641E-C725D6B01BCA}": 6,
+    "{16387429-9172-1C1D-7ECF-F30ECADD1FBD}": 6,
+    "{16387429-96C2-1C14-95F7-345D81A54652}": 6,
+    "{16387429-9B32-1C1B-FDCA-A65C6EF4125C}": 6,
+    "{16387429-A012-1C1D-583E-D443BD8DA930}": 6,
+    "{16387429-A4B2-1C24-E2F5-848AD471879B}": 6,
+    "{16387429-A922-1C1A-EA64-81470FAD1536}": 6,
+    "{16387429-AF12-1C16-EE85-8EA6405522A2}": 6,
+    "{16387429-B402-1CC3-EA63-000FB6EBD212}": 6,
+    "{16387429-B8F2-1C10-E304-DB2F40342194}": 6,
+    "{16387429-BF52-1C6B-D0D7-207434401D00}": 6,
+    "{16387429-C512-1C1C-13EC-86361ED118E8}": 6,
+    "{16387429-CA22-1C5A-0F63-C4741D1A7CF6}": 6,
+    "{16387429-D142-1C56-9BE9-CB7F21781447}": 6,
+    "{16387429-D662-1C23-70F0-67D40FB4CB39}": 6,
+    "{16387429-DC22-1C13-76A9-82E811B169F1}": 6,
+    "{16387429-E1F2-1C1D-456D-97347949211F}": 6,
+    "{16387428-D7B2-1C12-DEC9-5C2A23B11C06}": 6
+  },
+  "skipDefinitions": {
+    "nodeName": "definitions",
+    "childNodes": [
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9316",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "1",
+                          "2"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9277"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9278"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9279"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9316",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "1",
+                          "2"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9354"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9353"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0055"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0064"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0068"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0072"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0074"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0083"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0102"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0103"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0104"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0106"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0107"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0108"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0110"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0111"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "do not change",
+                "@objID": "9282"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hideanswer",
+                "@objID": "9282",
+                "childNodes": [
+                  {
+                    "nodeName": "parameter",
+                    "@name": "answers",
+                    "childNodes": [
+                      "1",
+                      "2",
+                      "3",
+                      "5",
+                      "6"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0048"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0060"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0062"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0067"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0071"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0073"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0088"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0095"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0100"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0109"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "do not change",
+                "@objID": "9282"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hideanswer",
+                "@objID": "9282",
+                "childNodes": [
+                  {
+                    "nodeName": "parameter",
+                    "@name": "answers",
+                    "childNodes": [
+                      "1",
+                      "6"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0058"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0076"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "operand",
+                    "@type": "or",
+                    "state": false
+                  },
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "commentcontains",
+                    "@objType": "question",
+                    "@objID": "9358",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "0042"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "do not change",
+                "@objID": "9282"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hideanswer",
+                "@objID": "9282",
+                "childNodes": [
+                  {
+                    "nodeName": "parameter",
+                    "@name": "answers",
+                    "childNodes": [
+                      "1"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9342",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "1",
+                          "2",
+                          "3",
+                          "4",
+                          "5"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9354"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9353"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9303"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9304"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9305"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9306"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9307"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9308"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9309"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9310"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9311"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9355"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9356"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9357"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9413"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9342",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "3",
+                          "4",
+                          "5"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9300"
+              },
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9301"
+              },
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9302"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9342",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "3",
+                          "4",
+                          "5"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9300"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9301"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9302"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9341",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "3",
+                          "4",
+                          "5"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9282"
+              },
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9283"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9341",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "3",
+                          "4",
+                          "5"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9282"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9283"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9282",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "7"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9283"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9282",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "7"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9283"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9343",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "3",
+                          "4",
+                          "5"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9285"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9286"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9343",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "3",
+                          "4",
+                          "5"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9285"
+              },
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9286"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9285",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "6"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9286"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9285",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "6"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9286"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9287",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "2"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9288"
+              },
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9289"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9287",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "2"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9288"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9289"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9288",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "6"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9289"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9288",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "6"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9289"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9344",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "3",
+                          "4",
+                          "5"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9313"
+              },
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9314"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9344",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "3",
+                          "4",
+                          "5"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9313"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9314"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9313",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "3"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9314"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9313",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "3"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9314"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9345",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "3",
+                          "4",
+                          "5"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9291"
+              },
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9292"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9345",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "3",
+                          "4",
+                          "5"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9291"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9292"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9291",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "8"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9292"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9291",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "8"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9292"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9293",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "10",
+                          "11"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9296"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9293",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "1",
+                          "2",
+                          "3",
+                          "4",
+                          "5",
+                          "6",
+                          "7"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9294"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9293",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "8",
+                          "9"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9295"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9293",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "1",
+                          "2",
+                          "3",
+                          "4",
+                          "5",
+                          "6",
+                          "7",
+                          "8",
+                          "9",
+                          "10",
+                          "11"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "do not change",
+                "@objID": "9293"
+              },
+              {
+                "nodeName": "action",
+                "@type": "advanced",
+                "@objID": "9293",
+                "childNodes": [
+                  {
+                    "nodeName": "parameter",
+                    "@name": "expression",
+                    "childNodes": [
+                      "if (ODP.Surveo.params.surveyResults[9316] == 1) { \n\n/// CS \n\ndocument.getElementById(\"coupontext_middle\").innerHTML = \" <div style='background-color:#eff0f1;width:90%;padding:20px;color:#000000;'><span style='font-size:18px;'> Děkujeme Vám za Váš názor. <br>Těšíme se na to, že Vás v naší restauraci opět brzy uvidíme.</div><br><br>Právě jste dokončili dotazník. Pokud si přejete kupon, klikněte na odkaz níže.<br><br><form action='https://survey.fast-insight.com/mcd/cz/coupon.php' method='post' target='_top'><input type='hidden' name='lang' value='cs'><input type='hidden' name='store_id' value='\"+ODP.Surveo.params.surveyResults[9358]+\"'><input type='hidden' name='IP' value='\"+ODP.Surveo.params.surveyResults[9303]+\"'><input type='hidden' name='browserLANG' value='\"+ODP.Surveo.params.surveyResults[9304]+\"'><input type='hidden' name='deviceType' value='\"+ODP.Surveo.params.surveyResults[9305]+\"'><input type='hidden' name='browser' value='\"+ODP.Surveo.params.surveyResults[9306]+\"'><input type='hidden' name='version' value='\"+ODP.Surveo.params.surveyResults[9307]+\"'><input type='hidden' name='platform' value='\"+ODP.Surveo.params.surveyResults[9308]+\"'><input type='hidden' name='surveyform' value='1338'><input type='hidden' name='identifier' value='\"+ODP.Surveo.params.surveyResults[9309]+\"'><input type='hidden' name='promo' value='\"+ODP.Surveo.params.surveyResults[9356]+\"'><input type='hidden' name='posid' value='\"+ODP.Surveo.params.surveyResults[9357]+\"'><input type='hidden' name='couponcode' value='\"+ODP.Surveo.params.surveyResults[9413]+\"'><input type='submit' value='OBDRŽET KUPON' style='padding:5px;background-color:#f4cc64;color:#000000;font-size:15px;font-weight:bold;'></form><iframe src='https://survey.fast-insight.com/mcd/cz/mcd_cz_sc.php' frameborder='0' height='0' width='0'></iframe>\"; \n} \n\nelse { \n\n/// if (ODP.Surveo.params.surveyResults[9316] == 2) { \n\n/// EN \n\ndocument.getElementById(\"coupontext_middle\").innerHTML = \" <div style='background-color:#eff0f1;width:90%;padding:20px;color:#000000;'><span style='font-size:18px;'> Thank you for participating in the Survey.<br><br> Looking forward to seeing you in our restaurants. </div><br><br>You have just finished the Survey. If you would like to get a voucher, please click on the link below.<br><br><form action='https://survey.fast-insight.com/mcd/cz/coupon.php' method='post' target='_top'><input type='hidden' name='lang' value='en'><input type='hidden' name='store_id' value='\"+ODP.Surveo.params.surveyResults[9358]+\"'><input type='hidden' name='IP' value='\"+ODP.Surveo.params.surveyResults[9303]+\"'><input type='hidden' name='browserLANG' value='\"+ODP.Surveo.params.surveyResults[9304]+\"'><input type='hidden' name='deviceType' value='\"+ODP.Surveo.params.surveyResults[9305]+\"'><input type='hidden' name='browser' value='\"+ODP.Surveo.params.surveyResults[9306]+\"'><input type='hidden' name='version' value='\"+ODP.Surveo.params.surveyResults[9307]+\"'><input type='hidden' name='platform' value='\"+ODP.Surveo.params.surveyResults[9308]+\"'><input type='hidden' name='surveyform' value='1338'><input type='hidden' name='identifier' value='\"+ODP.Surveo.params.surveyResults[9309]+\"'><input type='hidden' name='promo' value='\"+ODP.Surveo.params.surveyResults[9356]+\"'><input type='hidden' name='posid' value='\"+ODP.Surveo.params.surveyResults[9357]+\"'><input type='hidden' name='couponcode' value='\"+ODP.Surveo.params.surveyResults[9413]+\"'><input type='submit' value='GET VOUCHER' style='padding:5px;background-color:#f4cc64;color:#000000;font-size:15px;font-weight:bold;'></form><iframe src='https://survey.fast-insight.com/mcd/cz/mcd_cz_sc.php' frameborder='0' height='0' width='0'></iframe>\"; \n\n}\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9293",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "1",
+                          "2",
+                          "3",
+                          "4",
+                          "5",
+                          "6",
+                          "7",
+                          "8",
+                          "9",
+                          "10",
+                          "11"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9354"
+              },
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9353"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9293",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "8",
+                          "9"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9295"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9293",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "1",
+                          "2",
+                          "3",
+                          "4",
+                          "5",
+                          "6",
+                          "7",
+                          "8",
+                          "9",
+                          "10",
+                          "11"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9278"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9293",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "1",
+                          "2",
+                          "3",
+                          "4",
+                          "5",
+                          "6",
+                          "7",
+                          "8",
+                          "9",
+                          "10",
+                          "11"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "do not change",
+                "@objID": "9293"
+              },
+              {
+                "nodeName": "action",
+                "@type": "advanced",
+                "@objID": "9293",
+                "childNodes": [
+                  {
+                    "nodeName": "parameter",
+                    "@name": "expression",
+                    "childNodes": [
+                      " if (ODP && ODP.Surveo) { referrer = document.referrer; variables = referrer.substr(50);var qs = (function(a) { if (a == \"\") return {}; var b = {}; for (var i = 0; i < a.length; ++i) { var p=a[i].split('=', 2); if (p.length == 1) b[p[0]] = \"\"; else b[p[0]] = decodeURIComponent(p[1].replace(/\\+/g, \" \")); } return b; })(variables.split('&')); \n\nvar time = new Date();\nvar endtime = ((\"0\" + time.getHours()).slice(-2)   + \":\" + (\"0\" + time.getMinutes()).slice(-2) + \":\" + (\"0\" + time.getSeconds()).slice(-2));\n\nif (qs[\"starttime\"]) {\n\nvar time = qs[\"starttime\"];\n} else {\n\nvar time = \"12:00:00\";\n\n}\nvar hour = time.substr(0, 2);\nvar minute = time.substr(3, 2);\nvar second = time.substr(6, 2);\n\nvar currentdate = new Date();\n\n\n\nvar date1 = new Date(currentdate.getFullYear(), currentdate.getMonth(), currentdate.getDate(), hour, minute, second); \nvar date2 = new Date(currentdate.getFullYear(), currentdate.getMonth(), currentdate.getDate(), currentdate.getHours(), currentdate.getMinutes(), currentdate.getSeconds()); \n\n\nvar diff = date2 - date1;\n\nvar msec = diff+10000;\nvar hh = Math.floor(msec / 1000 / 60 / 60);\nmsec -= hh * 1000 * 60 * 60;\nvar mm = Math.floor(msec / 1000 / 60);\nmsec -= mm * 1000 * 60;\nvar ss = Math.floor(msec / 1000);\nmsec -= ss * 1000;\n\nif (ss < 10) ss = \"0\"+ss;\nif (mm < 10) mm = \"0\"+mm;\n\nvar completetime = mm+\":\"+ss;\n\nsm_setcomment(\"9303\", qs[\"IP\"]); \nsm_setcomment(\"9304\", qs[\"browserLANG\"]); \nsm_setcomment(\"9305\", qs[\"deviceType\"]); \nsm_setcomment(\"9306\", qs[\"browser\"]); \nsm_setcomment(\"9307\", qs[\"version\"]); \nsm_setcomment(\"9308\", qs[\"platform\"]);\nsm_setcomment(\"9309\", qs[\"identifier\"]);\nsm_setcomment(\"9310\", qs[\"starttime\"]);\nsm_setcomment(\"9311\", endtime);\nsm_setcomment(\"9355\", completetime);\n\n\n\n }"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9293",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "1",
+                          "2",
+                          "3",
+                          "4",
+                          "5",
+                          "6",
+                          "7"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9294"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9293",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "10",
+                          "11"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9296"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisnotin",
+                    "@objType": "question",
+                    "@objID": "9300",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "1"
+                        ]
+                      }
+                    ],
+                    "state": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9301"
+              },
+              {
+                "nodeName": "action",
+                "@type": "hide",
+                "@objID": "9302"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nodeName": "definition",
+        "childNodes": [
+          {
+            "nodeName": "conditions",
+            "childNodes": [
+              {
+                "nodeName": "group",
+                "@name": "Group 1",
+                "childNodes": [
+                  {
+                    "nodeName": "condition",
+                    "@name": "condition",
+                    "@type": "answerisin",
+                    "@objType": "question",
+                    "@objID": "9300",
+                    "childNodes": [
+                      {
+                        "nodeName": "value",
+                        "@name": "parameter",
+                        "childNodes": [
+                          "1"
+                        ]
+                      }
+                    ],
+                    "state": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nodeName": "actions",
+            "childNodes": [
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9301"
+              },
+              {
+                "nodeName": "action",
+                "@type": "show",
+                "@objID": "9302"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isSurveoLoading": 0,
+  "questionData": {
+    "9277": {},
+    "9278": {
+      "additionalDataForQuestion": {
+        "isOverflowed": true
+      }
+    },
+    "9279": {},
+    "9282": {
+      "additionalDataForQuestion": {
+        "isOverflowed": true
+      }
+    },
+    "9283": {},
+    "9285": {
+      "additionalDataForQuestion": {
+        "isOverflowed": true
+      }
+    },
+    "9286": {},
+    "9287": {},
+    "9288": {
+      "additionalDataForQuestion": {
+        "isOverflowed": true
+      }
+    },
+    "9289": {},
+    "9291": {
+      "additionalDataForQuestion": {
+        "isOverflowed": true
+      }
+    },
+    "9292": {},
+    "9293": {
+      "orientationHandler": []
+    },
+    "9294": {},
+    "9295": {},
+    "9296": {},
+    "9300": {},
+    "9301": {},
+    "9302": {},
+    "9303": {},
+    "9304": {},
+    "9305": {},
+    "9306": {},
+    "9307": {},
+    "9308": {},
+    "9309": {},
+    "9310": {},
+    "9311": {},
+    "9313": {
+      "additionalDataForQuestion": {
+        "isOverflowed": true
+      }
+    },
+    "9314": {},
+    "9316": {},
+    "9341": {
+      "additionalDataForQuestion": {
+        "isOverflowed": true
+      }
+    },
+    "9342": {
+      "additionalDataForQuestion": {
+        "isOverflowed": true
+      }
+    },
+    "9343": {
+      "additionalDataForQuestion": {
+        "isOverflowed": true
+      }
+    },
+    "9344": {
+      "additionalDataForQuestion": {
+        "isOverflowed": true
+      }
+    },
+    "9345": {
+      "additionalDataForQuestion": {
+        "isOverflowed": true
+      }
+    },
+    "9353": {},
+    "9354": {},
+    "9355": {},
+    "9356": {},
+    "9357": {},
+    "9358": {
+      "invalidLocationLiteralID": "This code is not valid."
+    },
+    "9413": {},
+    "section_1645": {
+      "orientationHandler": "",
+      "additionalDataForQuestion": {
+        "SectionProtoID": "1645",
+        "SectionInstanceID": "{16387428-E812-1C1E-0134-7020AF651433}"
+      }
+    },
+    "section_1646": {
+      "orientationHandler": "",
+      "additionalDataForQuestion": {
+        "SectionProtoID": "1646",
+        "SectionInstanceID": "{16387429-E1F2-1C1C-DAFD-A9FC089B1E1E}"
+      }
+    }
+  },
+  "defaultBackground": "{16387428-0FF2-1CAE-C744-FCA932F93A2F}",
+  "defaultChecked": "{16387428-0FF2-1C17-4CD1-0ECE892C4A04}",
+  "defaultUnchecked": "{16387428-0FF2-1C1C-5817-9D19171E19EE}",
+  "butBackSelected": "{16387428-0FF2-1C10-A46C-79DB8C321FFC}",
+  "butBack": "{16387428-0FF2-1C1C-7977-B494804AAD28}",
+  "radioBChecked": "{16387428-0FF2-1C1C-9318-4952D0F118C3}",
+  "radioBUnChecked": "{16387428-0FF2-1C18-3661-885BB4EB2321}",
+  "closeBtn": "{16387428-0FF2-1C15-D127-37C34FD71C7D}",
+  "backForNav": "{16387428-0FF2-1C1B-F714-70E6C88D23F6}",
+  "startBackground": "{16387428-0FF2-1C6A-90D8-C4AE50381418}",
+  "tyBackground": "{16387428-0FF2-1C21-0CB2-CBE13350BE01}",
+  "defaultSectionBack": "{16387428-0FF2-1C36-6884-27B4AB3042BA}",
+  "progressBarback": "{16387428-0FF2-1C23-1709-7292B4069C17}",
+  "progressBarFill": "{16387428-1002-1C21-BE2E-B8D196EC8AE7}",
+  "previousPicture": "{16387428-1002-1C22-B5CB-25B20A501741}",
+  "nextPicture": "{16387428-1012-1C39-F2B0-8A774D94B186}",
+  "progressBadge": "{16387428-1012-1C28-3442-4C165C82697B}",
+  "questionBodyBack": "{16387428-1012-1C71-C05B-2C0BFA14482B}",
+  "questionHeaderBack": "{16387428-1012-1C22-9A71-297BBBE4E59A}",
+  "defaultQuestionTemplate": "{16387428-1012-1C16-66C6-93E9CAD72D6D}",
+  "defaultBackArrow": "{16387428-1012-1CB1-699B-6B6D05714E65}",
+  "defaultNextArrow": "{16387428-1012-1C99-2997-B0B4DED06DB8}",
+  "buttonsLock": 0,
+  "isInDesigner": false,
+  "callbacksFinished": true,
+  "isPortrait": false,
+  "isSmallDevice": true,
+  "isMozilla": false,
+  "slideArray": {
+    "0": {
+      "lastMousePosition": {
+        "top": 171,
+        "left": 157
+      }
+    },
+    "1": {},
+    "2": {},
+    "3": {
+      "lastMousePosition": {
+        "top": 273,
+        "left": 253
+      }
+    },
+    "4": {
+      "lastMousePosition": {
+        "top": 225,
+        "left": 492
+      }
+    },
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {},
+    "21": {},
+    "22": {},
+    "23": {},
+    "24": {},
+    "25": {},
+    "26": {},
+    "27": {},
+    "28": {},
+    "29": {},
+    "30": {},
+    "31": {},
+    "32": {},
+    "33": {},
+    "34": {},
+    "35": {},
+    "36": {},
+    "37": {},
+    "38": {},
+    "39": {},
+    "40": {},
+    "41": {},
+    "42": {},
+    "43": {},
+    "44": {}
+  },
+  "slideCount": 41,
+  "swipeNavigationEnabled": false,
+  "keyboardNavigationEnabled": false,
+  "loaderProgress": 40,
+  "separatorForGlobalizedLiterals": "###",
+  "autoRestartEnabled": false,
+  "autoRestartAfter": false,
+  "onClickFinishButton": "Finish survey",
+  "customFinishText": "Thank you!<br>Your feedback will help us to improve our services.",
+  "customFinishFunctionFlag": false,
+  "submitOnAutoRestart": false,
+  "submitOnClose": true,
+  "surveysStatus": {
+    "sent": 0,
+    "onhold": 0,
+    "failed": 0,
+    "visualizer": {
+      "box": "",
+      "config": {
+        "css": ""
+      }
+    }
+  },
+  "loadingBox": {
+    "animationContainer": {},
+    "counter": {},
+    "progressBar": {},
+    "countDownTimeToLive": null,
+    "markToDestroy": true,
+    "permanent": false,
+    "slidesQueue": []
+  },
+  "deploymentTarget": {
+    "currentLanguage": "",
+    "isMobile": false,
+    "isSmallDevice": true,
+    "isMozilla": false,
+    "isOpera": false,
+    "isWebkit": true,
+    "isSilkBrowser": false,
+    "isOldBrowser": false,
+    "fullPlatformName": "mozilla/5.0 (macintosh; intel mac os x 10_13_5) applewebkit/537.36 (khtml, like gecko) chrome/66.0.3359.181 safari/537.36",
+    "platformOSName": "MacIntel",
+    "hasAddEventListener": true,
+    "hasAttachEvent": false,
+    "hasConsole": true,
+    "hasGeolocation": true,
+    "hasCamera": false,
+    "hasPhoneGap": false,
+    "eventHandlers": {},
+    "cacheOrientationForRegularBrowsers": 0,
+    "has3DTransforms": true
+  },
+  "surveoTheme": {
+    "themeName": "McDonalds Slovakia",
+    "themeImage": "url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAKT2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUIIFJCi4AUkSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuja9a89+bN/rXXPues852zzwfACAyWSDNRNYAMqUIeEeCDx8TG4eQuQIEKJHAAEAizZCFz/SMBAPh+PDwrIsAHvgABeNMLCADATZvAMByH/w/qQplcAYCEAcB0kThLCIAUAEB6jkKmAEBGAYCdmCZTAKAEAGDLY2LjAFAtAGAnf+bTAICd+Jl7AQBblCEVAaCRACATZYhEAGg7AKzPVopFAFgwABRmS8Q5ANgtADBJV2ZIALC3AMDOEAuyAAgMADBRiIUpAAR7AGDIIyN4AISZABRG8lc88SuuEOcqAAB4mbI8uSQ5RYFbCC1xB1dXLh4ozkkXKxQ2YQJhmkAuwnmZGTKBNA/g88wAAKCRFRHgg/P9eM4Ors7ONo62Dl8t6r8G/yJiYuP+5c+rcEAAAOF0ftH+LC+zGoA7BoBt/qIl7gRoXgugdfeLZrIPQLUAoOnaV/Nw+H48PEWhkLnZ2eXk5NhKxEJbYcpXff5nwl/AV/1s+X48/Pf14L7iJIEyXYFHBPjgwsz0TKUcz5IJhGLc5o9H/LcL//wd0yLESWK5WCoU41EScY5EmozzMqUiiUKSKcUl0v9k4t8s+wM+3zUAsGo+AXuRLahdYwP2SycQWHTA4vcAAPK7b8HUKAgDgGiD4c93/+8//UegJQCAZkmScQAAXkQkLlTKsz/HCAAARKCBKrBBG/TBGCzABhzBBdzBC/xgNoRCJMTCQhBCCmSAHHJgKayCQiiGzbAdKmAv1EAdNMBRaIaTcA4uwlW4Dj1wD/phCJ7BKLyBCQRByAgTYSHaiAFiilgjjggXmYX4IcFIBBKLJCDJiBRRIkuRNUgxUopUIFVIHfI9cgI5h1xGupE7yAAygvyGvEcxlIGyUT3UDLVDuag3GoRGogvQZHQxmo8WoJvQcrQaPYw2oefQq2gP2o8+Q8cwwOgYBzPEbDAuxsNCsTgsCZNjy7EirAyrxhqwVqwDu4n1Y8+xdwQSgUXACTYEd0IgYR5BSFhMWE7YSKggHCQ0EdoJNwkDhFHCJyKTqEu0JroR+cQYYjIxh1hILCPWEo8TLxB7iEPENyQSiUMyJ7mQAkmxpFTSEtJG0m5SI+ksqZs0SBojk8naZGuyBzmULCAryIXkneTD5DPkG+Qh8lsKnWJAcaT4U+IoUspqShnlEOU05QZlmDJBVaOaUt2ooVQRNY9aQq2htlKvUYeoEzR1mjnNgxZJS6WtopXTGmgXaPdpr+h0uhHdlR5Ol9BX0svpR+iX6AP0dwwNhhWDx4hnKBmbGAcYZxl3GK+YTKYZ04sZx1QwNzHrmOeZD5lvVVgqtip8FZHKCpVKlSaVGyovVKmqpqreqgtV81XLVI+pXlN9rkZVM1PjqQnUlqtVqp1Q61MbU2epO6iHqmeob1Q/pH5Z/YkGWcNMw09DpFGgsV/jvMYgC2MZs3gsIWsNq4Z1gTXEJrHN2Xx2KruY/R27iz2qqaE5QzNKM1ezUvOUZj8H45hx+Jx0TgnnKKeX836K3hTvKeIpG6Y0TLkxZVxrqpaXllirSKtRq0frvTau7aedpr1Fu1n7gQ5Bx0onXCdHZ4/OBZ3nU9lT3acKpxZNPTr1ri6qa6UbobtEd79up+6Ynr5egJ5Mb6feeb3n+hx9L/1U/W36p/VHDFgGswwkBtsMzhg8xTVxbzwdL8fb8VFDXcNAQ6VhlWGX4YSRudE8o9VGjUYPjGnGXOMk423GbcajJgYmISZLTepN7ppSTbmmKaY7TDtMx83MzaLN1pk1mz0x1zLnm+eb15vft2BaeFostqi2uGVJsuRaplnutrxuhVo5WaVYVVpds0atna0l1rutu6cRp7lOk06rntZnw7Dxtsm2qbcZsOXYBtuutm22fWFnYhdnt8Wuw+6TvZN9un2N/T0HDYfZDqsdWh1+c7RyFDpWOt6azpzuP33F9JbpL2dYzxDP2DPjthPLKcRpnVOb00dnF2e5c4PziIuJS4LLLpc+Lpsbxt3IveRKdPVxXeF60vWdm7Obwu2o26/uNu5p7ofcn8w0nymeWTNz0MPIQ+BR5dE/C5+VMGvfrH5PQ0+BZ7XnIy9jL5FXrdewt6V3qvdh7xc+9j5yn+M+4zw33jLeWV/MN8C3yLfLT8Nvnl+F30N/I/9k/3r/0QCngCUBZwOJgUGBWwL7+Hp8Ib+OPzrbZfay2e1BjKC5QRVBj4KtguXBrSFoyOyQrSH355jOkc5pDoVQfujW0Adh5mGLw34MJ4WHhVeGP45wiFga0TGXNXfR3ENz30T6RJZE3ptnMU85ry1KNSo+qi5qPNo3ujS6P8YuZlnM1VidWElsSxw5LiquNm5svt/87fOH4p3iC+N7F5gvyF1weaHOwvSFpxapLhIsOpZATIhOOJTwQRAqqBaMJfITdyWOCnnCHcJnIi/RNtGI2ENcKh5O8kgqTXqS7JG8NXkkxTOlLOW5hCepkLxMDUzdmzqeFpp2IG0yPTq9MYOSkZBxQqohTZO2Z+pn5mZ2y6xlhbL+xW6Lty8elQfJa7OQrAVZLQq2QqboVFoo1yoHsmdlV2a/zYnKOZarnivN7cyzytuQN5zvn//tEsIS4ZK2pYZLVy0dWOa9rGo5sjxxedsK4xUFK4ZWBqw8uIq2Km3VT6vtV5eufr0mek1rgV7ByoLBtQFr6wtVCuWFfevc1+1dT1gvWd+1YfqGnRs+FYmKrhTbF5cVf9go3HjlG4dvyr+Z3JS0qavEuWTPZtJm6ebeLZ5bDpaql+aXDm4N2dq0Dd9WtO319kXbL5fNKNu7g7ZDuaO/PLi8ZafJzs07P1SkVPRU+lQ27tLdtWHX+G7R7ht7vPY07NXbW7z3/T7JvttVAVVN1WbVZftJ+7P3P66Jqun4lvttXa1ObXHtxwPSA/0HIw6217nU1R3SPVRSj9Yr60cOxx++/p3vdy0NNg1VjZzG4iNwRHnk6fcJ3/ceDTradox7rOEH0x92HWcdL2pCmvKaRptTmvtbYlu6T8w+0dbq3nr8R9sfD5w0PFl5SvNUyWna6YLTk2fyz4ydlZ19fi753GDborZ752PO32oPb++6EHTh0kX/i+c7vDvOXPK4dPKy2+UTV7hXmq86X23qdOo8/pPTT8e7nLuarrlca7nuer21e2b36RueN87d9L158Rb/1tWeOT3dvfN6b/fF9/XfFt1+cif9zsu72Xcn7q28T7xf9EDtQdlD3YfVP1v+3Njv3H9qwHeg89HcR/cGhYPP/pH1jw9DBY+Zj8uGDYbrnjg+OTniP3L96fynQ89kzyaeF/6i/suuFxYvfvjV69fO0ZjRoZfyl5O/bXyl/erA6xmv28bCxh6+yXgzMV70VvvtwXfcdx3vo98PT+R8IH8o/2j5sfVT0Kf7kxmTk/8EA5jz/GMzLdsAAD0faVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/Pgo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjUtYzAyMSA3OS4xNTQ5MTEsIDIwMTMvMTAvMjktMTE6NDc6MTYgICAgICAgICI+CiAgIDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICAgICAgICAgIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIKICAgICAgICAgICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICAgICAgICAgICB4bWxuczpwaG90b3Nob3A9Imh0dHA6Ly9ucy5hZG9iZS5jb20vcGhvdG9zaG9wLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIgogICAgICAgICAgICB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIgogICAgICAgICAgICB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyIKICAgICAgICAgICAgeG1sbnM6ZXhpZj0iaHR0cDovL25zLmFkb2JlLmNvbS9leGlmLzEuMC8iPgogICAgICAgICA8eG1wOkNyZWF0b3JUb29sPkFkb2JlIFBob3Rvc2hvcCBDQyAoV2luZG93cyk8L3htcDpDcmVhdG9yVG9vbD4KICAgICAgICAgPHhtcDpDcmVhdGVEYXRlPjIwMTQtMDMtMjRUMTY6Mjc6MjQrMDI6MDA8L3htcDpDcmVhdGVEYXRlPgogICAgICAgICA8eG1wOk1vZGlmeURhdGU+MjAxNC0wMy0yNFQxNjozNTowOCswMjowMDwveG1wOk1vZGlmeURhdGU+CiAgICAgICAgIDx4bXA6TWV0YWRhdGFEYXRlPjIwMTQtMDMtMjRUMTY6MzU6MDgrMDI6MDA8L3htcDpNZXRhZGF0YURhdGU+CiAgICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2UvcG5nPC9kYzpmb3JtYXQ+CiAgICAgICAgIDxwaG90b3Nob3A6Q29sb3JNb2RlPjM8L3Bob3Rvc2hvcDpDb2xvck1vZGU+CiAgICAgICAgIDxwaG90b3Nob3A6SUNDUHJvZmlsZT5zUkdCIElFQzYxOTY2LTIuMTwvcGhvdG9zaG9wOklDQ1Byb2ZpbGU+CiAgICAgICAgIDxwaG90b3Nob3A6RG9jdW1lbnRBbmNlc3RvcnM+CiAgICAgICAgICAgIDxyZGY6QmFnPgogICAgICAgICAgICAgICA8cmRmOmxpPjQ5RkY2QjhGMTBBMTU1Q0YyNDE2NEQyMTRGNjVFMjIxPC9yZGY6bGk+CiAgICAgICAgICAgICAgIDxyZGY6bGk+QTdEMDUwNjI4RjFCOTkyMjQzODY0MEU1MjdDMUQ1MjU8L3JkZjpsaT4KICAgICAgICAgICAgICAgPHJkZjpsaT51dWlkOkMxREI3RDJGNTMzNjExRENBNDc0OEY1RDhBOEQ2Q0ZDPC9yZGY6bGk+CiAgICAgICAgICAgICAgIDxyZGY6bGk+dXVpZDpFRjI3QkNCOEY3MzBFMDExOTRGMjk5NTBGNTk0MTFFMTwvcmRmOmxpPgogICAgICAgICAgICAgICA8cmRmOmxpPnhtcC5kaWQ6MDJEODAxMThBREVBMTFFMzgyQTRCN0NDNzkyQjhFMzU8L3JkZjpsaT4KICAgICAgICAgICAgICAgPHJkZjpsaT54bXAuZGlkOjA0OGE3OWNjLTMyODQtNGM0NC05NmNkLTQwMjAyNzBhYWFjNzwvcmRmOmxpPgogICAgICAgICAgICA8L3JkZjpCYWc+CiAgICAgICAgIDwvcGhvdG9zaG9wOkRvY3VtZW50QW5jZXN0b3JzPgogICAgICAgICA8eG1wTU06SW5zdGFuY2VJRD54bXAuaWlkOjYzODI2MTY3LWI4NWItMjY0OC1iOWI0LTVlNzYwZjg4ZjFjNTwveG1wTU06SW5zdGFuY2VJRD4KICAgICAgICAgPHhtcE1NOkRvY3VtZW50SUQ+eG1wLmRpZDphYWNiMDAxMi02Njc2LWI4NDctOGYyNi1mNWQ2ODk0NTM4NGE8L3htcE1NOkRvY3VtZW50SUQ+CiAgICAgICAgIDx4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ+eG1wLmRpZDphYWNiMDAxMi02Njc2LWI4NDctOGYyNi1mNWQ2ODk0NTM4NGE8L3htcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD4KICAgICAgICAgPHhtcE1NOkhpc3Rvcnk+CiAgICAgICAgICAgIDxyZGY6U2VxPgogICAgICAgICAgICAgICA8cmRmOmxpIHJkZjpwYXJzZVR5cGU9IlJlc291cmNlIj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OmFjdGlvbj5jcmVhdGVkPC9zdEV2dDphY3Rpb24+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDppbnN0YW5jZUlEPnhtcC5paWQ6YWFjYjAwMTItNjY3Ni1iODQ3LThmMjYtZjVkNjg5NDUzODRhPC9zdEV2dDppbnN0YW5jZUlEPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6d2hlbj4yMDE0LTAzLTI0VDE2OjI3OjI0KzAyOjAwPC9zdEV2dDp3aGVuPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6c29mdHdhcmVBZ2VudD5BZG9iZSBQaG90b3Nob3AgQ0MgKFdpbmRvd3MpPC9zdEV2dDpzb2Z0d2FyZUFnZW50PgogICAgICAgICAgICAgICA8L3JkZjpsaT4KICAgICAgICAgICAgICAgPHJkZjpsaSByZGY6cGFyc2VUeXBlPSJSZXNvdXJjZSI+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDphY3Rpb24+Y29udmVydGVkPC9zdEV2dDphY3Rpb24+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDpwYXJhbWV0ZXJzPmZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmc8L3N0RXZ0OnBhcmFtZXRlcnM+CiAgICAgICAgICAgICAgIDwvcmRmOmxpPgogICAgICAgICAgICAgICA8cmRmOmxpIHJkZjpwYXJzZVR5cGU9IlJlc291cmNlIj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OmFjdGlvbj5zYXZlZDwvc3RFdnQ6YWN0aW9uPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6aW5zdGFuY2VJRD54bXAuaWlkOjYzODI2MTY3LWI4NWItMjY0OC1iOWI0LTVlNzYwZjg4ZjFjNTwvc3RFdnQ6aW5zdGFuY2VJRD4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OndoZW4+MjAxNC0wMy0yNFQxNjozNTowOCswMjowMDwvc3RFdnQ6d2hlbj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OnNvZnR3YXJlQWdlbnQ+QWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKTwvc3RFdnQ6c29mdHdhcmVBZ2VudD4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OmNoYW5nZWQ+Lzwvc3RFdnQ6Y2hhbmdlZD4KICAgICAgICAgICAgICAgPC9yZGY6bGk+CiAgICAgICAgICAgIDwvcmRmOlNlcT4KICAgICAgICAgPC94bXBNTTpIaXN0b3J5PgogICAgICAgICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICAgICA8dGlmZjpYUmVzb2x1dGlvbj43MjAwMDAvMTAwMDA8L3RpZmY6WFJlc29sdXRpb24+CiAgICAgICAgIDx0aWZmOllSZXNvbHV0aW9uPjcyMDAwMC8xMDAwMDwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6UmVzb2x1dGlvblVuaXQ+MjwvdGlmZjpSZXNvbHV0aW9uVW5pdD4KICAgICAgICAgPGV4aWY6Q29sb3JTcGFjZT4xPC9leGlmOkNvbG9yU3BhY2U+CiAgICAgICAgIDxleGlmOlBpeGVsWERpbWVuc2lvbj4zMjwvZXhpZjpQaXhlbFhEaW1lbnNpb24+CiAgICAgICAgIDxleGlmOlBpeGVsWURpbWVuc2lvbj4zMjwvZXhpZjpQaXhlbFlEaW1lbnNpb24+CiAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgogICA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo8P3hwYWNrZXQgZW5kPSJ3Ij8+NWvPaAAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAADU0lEQVR42sTXWYhXVRwH8M8M06TlIJGtIGQvlRX50L5pBJVM0BAllRntkYn0UNH20JOEtEAF9RJmqEwLbcQUWCERZTqhSFESlM3ATDXagks2UtPL79bpcO5/5o6R36d7zz339/v+9nPaxsbGHEh0DA5v/z/1taEb52M2+joaCjgUp2IWunAwdmMbtqCVNYfgVcxP1qZPhMDhuBFX4XTU/TOGTXgRz2NXZvlLmXKY0zYwNNKK8UO4O56bYDvuxQvxfgE+LOzb114j4ER8igcLyveFta0wAyvCG50R7xKGSwTmox+nZOujuClifyRemYAnFmExBmu+b8oJzMMbkWw5ngiX/h4uXoiBcQj8iT5cgU8KBi1LCRwRidJZI+yjQij6xyHQhzNxeyTo09gQRl6EDSmBJ8O1dTi5UNOzxyHwLL7AcIRiIfbgZ2yEisDc+Fjhj0igR/FlrD2MC6sGhuWRrHXYho/D8jlYhenhkeXhQVUZvoPLknrujjWYgvdwXiK4K/pDKzyA4zANd+FXHBsVsuVvNw4MjcwMoZU3+nFGJqwHrzfoA6MRns1B4IcI8Qr8mG5sx+WJclkHq7CnYSPqDY9Oi/ejsDRCd1BOYG7287mFhLulgfK9uB93ZuV4A+7DYTmBPJE6I/53hHdWYUEDAh/EsEqNeCzkLo2c+mcc15TeTDw3yZH7XXixwmd4JsquLQ9xe2RlitVRBbeGsKY4Bl/F8zfRvldHHuzAT/9qJgNDIzuTZOnFtcn3WdFIpjYg8BvOjlzYgZVhELybj+QOjCQEVmbCvo1mcnEDAlOxPsbvaTg6+fZyvrk96XQK4VAzmCZC4tJM+ddYUyKQDpklmcJLcNZ/cBYcxW0xSeU5cEKSNFXivBbVcU2Uz1a8Ha306hbHshK+x/V4v3hKjVmwrtCQKlQ5sDfeu4NMCVvxS1g8GHLXxMFVKwLzooG0Ffb04M1s7fNCt7wHjzeNTTUD1sX4LWFXzaEzxfoYNiZLQIzMzYU912Xvx+Oc7OywOPp985tR8rw7sn5t1G+Fm2Nfb3S5R7Jj27I4dEzuqlS4F3RFOHom8P9buDK8YH9DUGFnCF0SGd1q5i/YH+V1HsgvGIuiH5wUyjbiqRal2IzAgb6e/zUAFMfObeGpKfMAAAAASUVORK5CYII='); background-size: 100% 100%;",
+    "surveoContainer": {
+      "Layout": null,
+      "Scale factor": null,
+      "Orientation": null,
+      "Content padding(global)": null,
+      "Content scrollable": null,
+      "Default font family": null,
+      "Header Font Color": "#000;",
+      "Body Font Color": "#848080;",
+      "Show survey status counter": null,
+      "Show restart button(global)": null,
+      "Show progress bar(global)": null,
+      "Show progress bar value": null,
+      "Progress bar value position": null,
+      "Enable swipe navigation": null,
+      "Enable keyboard navigation": null,
+      "Width": null,
+      "Height": null,
+      "Default Question Template": "<div class = \"surveoQuestionTemplateContainer\" style=\"width: 100%; height: 100%; position: relative;\"><div class = \"surveoQuestionTemplateQuestionText\" style=\"position: relative;  background: transparent;; -webkit-border-radius:0.25em 0.25em 0em 0em;-moz-border-radius:0.25em 0.25em 0em 0em; border-radius:0.25em 0.25em 0em 0em;padding:0.5em;box-sizing: border-box;ms-box-sizing: border-box;webkit-box-sizing: border-box;moz-box-sizing: border-box; display: table;width: 100%; min-height: 3em; text-align: center;\"><div style=\"color: ###SURVEO_DEFAULT_QUESTION_LAYOUT_HEADER_FONT_COLOR###; font-weight: bold; vertical-align: middle; line-height: 2em; font-family: ###SURVEO_DEFAULT_QUESTION_LAYOUT_FONT###; display: table-cell;\">###SURVEO_DEFAULT_QUESTION_LAYOUT_QUESTION_TEXT###</div></div><div class = \"surveoQuestionTemplateQuestionContent\" style=\"position: relative; height: auto; background: transparent;width:85%;box-shadow:none; min-height: 3em;\"><div class = \"surveoQuestionTemplateQuestionContentContainer\">###SURVEO_DEFAULT_QUESTION_LAYOUT_QUESTION_CONTENT###</div></div></div>"
+    },
+    "surveoGenericSlide": {
+      "Width": null,
+      "Height": null,
+      "Scale factor": null,
+      "Content padding": null,
+      "Content scrollable": null,
+      "Header Font Color": "#000;",
+      "Button Font Color": null,
+      "Button Background": "transparent; box-shadow:none;",
+      "Slide background": "transparent;",
+      "Inner content background": "transparent;border:none;",
+      "Close button image": null,
+      "Progress bar background": "#666666;height:6px;width:100%;",
+      "Progress bar fill": "#fad028;height:3px;",
+      "Slide back button": "transparent;box-shadow:none;background-image:url('http://survey.fast-insight.com/mcd/images/mcd_back_demo.png');text-shadow:none;color:#807c7c;",
+      "Slide next button": "transparent;box-shadow:none;background-image:url('http://survey.fast-insight.com/mcd/images/mcd_next_demo.png');text-shadow:none;color:#807c7c;",
+      "Back button badge": "url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAA0CAYAAAAUnx+bAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpDQjU2MjZCNjMxMzkxMUU1OTg0QkREMDAzQzEyNTA0OSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpFMzc3MDEzMjMxNDAxMUU1OTg0QkREMDAzQzEyNTA0OSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkNCNTYyNkI0MzEzOTExRTU5ODRCREQwMDNDMTI1MDQ5IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkNCNTYyNkI1MzEzOTExRTU5ODRCREQwMDNDMTI1MDQ5Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+f0SZ7AAAAF1JREFUeNrs0DEBAAAIAyC1f+dZwsMDItBJijujQKhQoQgVKhShQoUiVKhQoQgVKhShQoUiVKhQhAoVKhShQoUiVKhQhAoVilChQoUiVKhQhAoVilChQhEq9LcVYADBdANlElKQ3gAAAABJRU5ErkJggg==')",
+      "Next button badge": "url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAA0CAYAAAAUnx+bAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpDQjU2MjZCNjMxMzkxMUU1OTg0QkREMDAzQzEyNTA0OSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpFMzc3MDEzMjMxNDAxMUU1OTg0QkREMDAzQzEyNTA0OSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkNCNTYyNkI0MzEzOTExRTU5ODRCREQwMDNDMTI1MDQ5IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkNCNTYyNkI1MzEzOTExRTU5ODRCREQwMDNDMTI1MDQ5Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+f0SZ7AAAAF1JREFUeNrs0DEBAAAIAyC1f+dZwsMDItBJijujQKhQoQgVKhShQoUiVKhQoQgVKhShQoUiVKhQhAoVKhShQoUiVKhQhAoVilChQoUiVKhQhAoVilChQhEq9LcVYADBdANlElKQ3gAAAABJRU5ErkJggg==')"
+    },
+    "surveoQuestionGenericSingle": {
+      "Header Font Color": null,
+      "Answers Font Color": "#848080;",
+      "Selected Answers Font Color": "#fad028;",
+      "Unchecked picture": "url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDoyRTBFRjJBMTM2RTIxMUU1OTg0QkREMDAzQzEyNTA0OSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDoyRTBFRjJBMjM2RTIxMUU1OTg0QkREMDAzQzEyNTA0OSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjJFMEVGMjlGMzZFMjExRTU5ODRCREQwMDNDMTI1MDQ5IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjJFMEVGMkEwMzZFMjExRTU5ODRCREQwMDNDMTI1MDQ5Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+U9ySKQAAAAxQTFRFmpufjImJ////////WBd2twAAAAR0Uk5T////AEAqqfQAAAA5SURBVHjaYmAmGTCMahnVMui1MGIDNNDCgA6I0MKECka1jGoZolpIT/z0yJWjpeWollEteABAgAEA+XUamUHyv1AAAAAASUVORK5CYII=') center no-repeat; background-size: initial",
+      "Checked picture": "url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpGQjY2QTQ5QzM2REYxMUU1OTg0QkREMDAzQzEyNTA0OSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDoyRTBFRjI5RTM2RTIxMUU1OTg0QkREMDAzQzEyNTA0OSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZCNjZBNDlBMzZERjExRTU5ODRCREQwMDNDMTI1MDQ5IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkZCNjZBNDlCMzZERjExRTU5ODRCREQwMDNDMTI1MDQ5Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+lLWaAwAAAA9QTFRF+deqnqCkjImJ+tAo////xCY7AQAAAAV0Uk5T/////wD7tg5TAAAAQElEQVR42mJgIRkwjGoZ1TLotTBhAzTQwogOiNDCgAqI0sKMDEa1jGqhgRbSkyXpiZ8euXK0tBzVMqoFDwAIMABX5iO7JcO4QAAAAABJRU5ErkJggg==') center no-repeat; background-size: initial",
+      "Answers background": "transparent;",
+      "Selected Answers background": "transparent;"
+    },
+    "surveoQuestionGenericMultiple": {
+      "Header Font Color": null,
+      "Answers Font Color": "#848080;",
+      "Selected Answers Font Color": "#fad028;",
+      "Unchecked picture": "url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDoyRTBFRjJBMTM2RTIxMUU1OTg0QkREMDAzQzEyNTA0OSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDoyRTBFRjJBMjM2RTIxMUU1OTg0QkREMDAzQzEyNTA0OSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjJFMEVGMjlGMzZFMjExRTU5ODRCREQwMDNDMTI1MDQ5IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjJFMEVGMkEwMzZFMjExRTU5ODRCREQwMDNDMTI1MDQ5Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+U9ySKQAAAAxQTFRFmpufjImJ////////WBd2twAAAAR0Uk5T////AEAqqfQAAAA5SURBVHjaYmAmGTCMahnVMui1MGIDNNDCgA6I0MKECka1jGoZolpIT/z0yJWjpeWollEteABAgAEA+XUamUHyv1AAAAAASUVORK5CYII=') center no-repeat; background-size: initial",
+      "Checked picture": "url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpGQjY2QTQ5QzM2REYxMUU1OTg0QkREMDAzQzEyNTA0OSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDoyRTBFRjI5RTM2RTIxMUU1OTg0QkREMDAzQzEyNTA0OSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZCNjZBNDlBMzZERjExRTU5ODRCREQwMDNDMTI1MDQ5IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkZCNjZBNDlCMzZERjExRTU5ODRCREQwMDNDMTI1MDQ5Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+lLWaAwAAAA9QTFRF+deqnqCkjImJ+tAo////xCY7AQAAAAV0Uk5T/////wD7tg5TAAAAQElEQVR42mJgIRkwjGoZ1TLotTBhAzTQwogOiNDCgAqI0sKMDEa1jGqhgRbSkyXpiZ8euXK0tBzVMqoFDwAIMABX5iO7JcO4QAAAAABJRU5ErkJggg==') center no-repeat; background-size: initial",
+      "Answers background": "transparent;",
+      "Selected Answers background": "transparent;"
+    },
+    "surveoQuestionKeyBoard": {
+      "Height": null,
+      "Width": null,
+      "Button background": "#FFF;",
+      "Clicked Button background": "#fad028;"
+    },
+    "surveoQuestionNetPromoter": {
+      "Checked background": "#fad028;",
+      "Unchecked background": "#848080;",
+      "Answer Text Color": "#FFF;",
+      "Trailing": null,
+      "Cool FX": null,
+      "On answer select effect": null
+    },
+    "surveoQuestionRankingOptions": {
+      "Header Font Color": null,
+      "Answers background": null,
+      "Selected Answers background": null,
+      "Answers Font Color": null,
+      "Selected Answers Font Color": null
+    },
+    "surveoDateTimePicker": {
+      "Buttons active background": "#848080;",
+      "Active border color": "#848080;",
+      "Buttons unactive background": "#CCC;",
+      "Unactive border color": "#CCC;",
+      "Numbers background": null,
+      "Check image": null,
+      "Buttons text color": "#FFF;",
+      "Big numbers color": "#fad028;",
+      "Small numbers color": "#fad028;"
+    }
+  },
+  "timeoutHandler": null,
+  "contentScrollable": "No",
+  "surveoGlobalizationDataset": "surveoGlobalizationData",
+  "advancedLiteralsDataset": "surveoAdvancedLiterals",
+  "blockRotationHandling": false,
+  "surveoShowProgressValue": false,
+  "surveoIWR": "https://portal.fast-insight.com/iwr.asp?project=20a8ef&code=",
+  "surveoIWRCodeQuestion": "",
+  "sendingInProgress": 0,
+  "skipsEnabled": true,
+  "questionOrder": [
+    {
+      "qID": "9316",
+      "qPos": 1
+    },
+    {
+      "qID": "9354",
+      "qPos": 2
+    },
+    {
+      "qID": "9353",
+      "qPos": 3
+    },
+    {
+      "qID": "9358",
+      "qPos": 4
+    },
+    {
+      "qID": "9277",
+      "qPos": 5
+    },
+    {
+      "qID": "9278",
+      "qPos": 6
+    },
+    {
+      "qID": "9279",
+      "qPos": 7
+    },
+    {
+      "qID": "9342",
+      "qPos": 8
+    },
+    {
+      "qID": "9341",
+      "qPos": 9
+    },
+    {
+      "qID": "9282",
+      "qPos": 10
+    },
+    {
+      "qID": "9283",
+      "qPos": 11
+    },
+    {
+      "qID": "9343",
+      "qPos": 12
+    },
+    {
+      "qID": "9285",
+      "qPos": 13
+    },
+    {
+      "qID": "9286",
+      "qPos": 14
+    },
+    {
+      "qID": "9287",
+      "qPos": 15
+    },
+    {
+      "qID": "9288",
+      "qPos": 16
+    },
+    {
+      "qID": "9289",
+      "qPos": 17
+    },
+    {
+      "qID": "9344",
+      "qPos": 18
+    },
+    {
+      "qID": "9313",
+      "qPos": 19
+    },
+    {
+      "qID": "9314",
+      "qPos": 20
+    },
+    {
+      "qID": "9345",
+      "qPos": 21
+    },
+    {
+      "qID": "9291",
+      "qPos": 22
+    },
+    {
+      "qID": "9292",
+      "qPos": 23
+    },
+    {
+      "qID": "9293",
+      "qPos": 24
+    },
+    {
+      "qID": "9294",
+      "qPos": 25
+    },
+    {
+      "qID": "9295",
+      "qPos": 26
+    },
+    {
+      "qID": "9296",
+      "qPos": 27
+    },
+    {
+      "qID": "9300",
+      "qPos": 28
+    },
+    {
+      "qID": "9301",
+      "qPos": 29
+    },
+    {
+      "qID": "9302",
+      "qPos": 30
+    },
+    {
+      "qID": "9303",
+      "qPos": 31
+    },
+    {
+      "qID": "9304",
+      "qPos": 32
+    },
+    {
+      "qID": "9305",
+      "qPos": 33
+    },
+    {
+      "qID": "9306",
+      "qPos": 34
+    },
+    {
+      "qID": "9307",
+      "qPos": 35
+    },
+    {
+      "qID": "9308",
+      "qPos": 36
+    },
+    {
+      "qID": "9309",
+      "qPos": 37
+    },
+    {
+      "qID": "9310",
+      "qPos": 38
+    },
+    {
+      "qID": "9311",
+      "qPos": 39
+    },
+    {
+      "qID": "9355",
+      "qPos": 40
+    },
+    {
+      "qID": "9356",
+      "qPos": 41
+    },
+    {
+      "qID": "9357",
+      "qPos": 42
+    },
+    {
+      "qID": "9413",
+      "qPos": 43
+    }
+  ],
+  "surveyTimeIn": "02:40:11",
+  "hasCounter": false,
+  "scaleFactor": "100%",
+  "onSlideChange": {
+    "eventName": "slideMoved"
+  },
+  "timeForAnimationForSlideChange": 400,
+  "attachArrayOfCallBacks": true,
+  "surveoValidIWRCodes": {
+    "9999": 1,
+    "0015": 1,
+    "0075": 1,
+    "0007": 1,
+    "0060": 1,
+    "0105": 1,
+    "0055": 1,
+    "0068": 1,
+    "0034": 1,
+    "0110": 1,
+    "0022": 1,
+    "0082": 1,
+    "0094": 1,
+    "0064": 1,
+    "0107": 1,
+    "0021": 1,
+    "0104": 1,
+    "0032": 1,
+    "0092": 1,
+    "0014": 1,
+    "0044": 1,
+    "0098": 1,
+    "0057": 1,
+    "0087": 1,
+    "0024": 1,
+    "0097": 1,
+    "0070": 1,
+    "0036": 1,
+    "0106": 1,
+    "0101": 1,
+    "0039": 1,
+    "0100": 1,
+    "0086": 1,
+    "0081": 1,
+    "0063": 1,
+    "0066": 1,
+    "0019": 1,
+    "0095": 1,
+    "0093": 1,
+    "0029": 1,
+    "0089": 1,
+    "0013": 1,
+    "0065": 1,
+    "0108": 1,
+    "0074": 1,
+    "0052": 1,
+    "0090": 1,
+    "0079": 1,
+    "0043": 1,
+    "0011": 1,
+    "0103": 1,
+    "0088": 1,
+    "0099": 1,
+    "0072": 1,
+    "0056": 1,
+    "0004": 1,
+    "0049": 1,
+    "0018": 1,
+    "0091": 1,
+    "0012": 1,
+    "0053": 1,
+    "0001": 1,
+    "0111": 1,
+    "0080": 1,
+    "0058": 1,
+    "0069": 1,
+    "0073": 1,
+    "0038": 1,
+    "0041": 1,
+    "0083": 1,
+    "0109": 1,
+    "0003": 1,
+    "0067": 1,
+    "0076": 1,
+    "0050": 1,
+    "0035": 1,
+    "0027": 1,
+    "0037": 1,
+    "0051": 1,
+    "0028": 1,
+    "0102": 1,
+    "0045": 1,
+    "0048": 1,
+    "0071": 1,
+    "0020": 1,
+    "0096": 1,
+    "0026": 1,
+    "0046": 1,
+    "0009": 1,
+    "0084": 1,
+    "0042": 1,
+    "0085": 1,
+    "0016": 1,
+    "0017": 1,
+    "0010": 1,
+    "0078": 1,
+    "0062": 1,
+    "0047": 1
+  },
+  "isInAnimatingBetweenSlides": false,
+  "cacheCurrent": null,
+  "cacheNext": null
+}
