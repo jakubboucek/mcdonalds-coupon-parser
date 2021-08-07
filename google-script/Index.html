@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>McDonald's</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <base target="_top">
+  <style>
+    img {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+    }
+
+    .code-block {
+      position: absolute;
+      top: 40px;
+      left: 130px;
+      font-family: Arial;
+      width: 400px;
+    }
+
+    .code {
+      position: relative;
+      font-weight: bold;
+      color: #000;
+      font-size: 20px;
+      max-width: 197px;
+    }
+    
+    .code-block.fade .code:after {
+      content: '';
+      width: 100%;
+      height: 100%;    
+      position: absolute;
+      left: 0;
+      top: 0;
+      background: linear-gradient(to right,transparent, #f7c64a 67%);
+    }
+    
+    .code-block.fade button {
+      position: relative;
+      left: -50px;
+      top: -3px;    
+    }
+
+    .deadline {
+      position: absolute;
+      top: 323px;
+      left: 605px;
+      font-family: Arial;
+      font-size: 10px;
+      width: 300px;
+      color: #035c73;
+    }
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script>
+    $(function(){
+      var codeBlock = $('.code-block');
+      var code = $('#code');
+      var liftButton = $('button', codeBlock);
+      var deadlineBlock = $('.deadline');
+      var deadlineDate = $('#deadlineDate');
+      
+      reset();
+      
+      function reset() {
+        codeBlock.hide();
+        deadlineBlock.hide();
+        google.script.run.withSuccessHandler(function(data){
+          showCode(data, true);
+        }).getPrewiewCode();
+      }
+      
+      code.click(reset);
+
+      liftButton.click(function(){
+        codeBlock.hide();
+        deadlineBlock.hide();
+        google.script.run.withSuccessHandler(function(data){
+          showCode(data, false);
+        }).getLiveCode();
+      });
+      
+      function showCode(data, isPreview) {
+        if(!data) {
+          alert("Nelze získat kód (možná došly).");
+          return;
+        }
+        code.text(data.code);
+        deadlineDate.text(data.expires);
+        codeBlock.show();
+        deadlineBlock.show();
+        if(isPreview) {
+          liftButton.show();
+          codeBlock.addClass('fade');
+        }
+        else {
+          liftButton.hide();
+          codeBlock.removeClass('fade');
+         }
+      }
+    });
+  </script>
+</head>
+<body>
+  <img src="https://survey.fast-insight.com/mcd/cz/images/mcd_cz_coupon.jpg">
+  <div class="code-block" style="display:none">
+    <span class="code" id="code"></span>
+    <button >Získat kód</button>
+  </div>
+  <div class="deadline" style="display:none">
+    PLATÍ DO: <span id="deadlineDate"></span>
+  </div>
+</body>
+</html>
